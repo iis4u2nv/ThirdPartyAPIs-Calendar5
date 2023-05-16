@@ -57,7 +57,7 @@ body {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
   }
-  /***OVERWRITE - MEDIA QUERY FOR TABLES AND SMALLER ***/
+
   /* This will be applied on any screen 768px and below */
   @media screen and (max-width: 768px), screen and (max-width: 575px) {
     .row {
